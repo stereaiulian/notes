@@ -2,9 +2,27 @@
 
 docker ps
 
+docker start my_container
+
+docker container ls
+
+docker container rename CONTAINER NEW_NAME
+
+docker kill my_container
+
+docker rm /redis
+
+docker top CONTAINER
+
+
+
 # Images
 
 docker images
+
+docker image ls
+
+docker image rm
 
 
 
