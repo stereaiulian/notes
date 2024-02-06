@@ -21,6 +21,7 @@ ___
 docker export CONTAINER > /path/to/file.tar
 
 Or 
+
 docker export -o /path/to/file.tar CONTAINER
 
 In both cases, the CONTAINER parameter can be one of the following values:
